@@ -1,0 +1,42 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal\BattleTank\UnrealCourseBT).
+  Creating makefile for BattleTankEditor (no existing makefile)
+  Parsing headers for BattleTankEditor
+    Running UnrealHeaderTool "D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\BattleTank.uproject" "D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Intermediate\Build\Win64\BattleTankEditor\Development\BattleTankEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for BattleTankEditor in 7.310927 seconds
+  Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 29 actions with 8 processes...
+    [1/29] Default.rc2
+    [2/29] SharedPCH.Engine.cpp
+    [3/29] TankBarrel.cpp
+    [4/29] SpawnPoint.cpp
+    [5/29] TankMovementComponent.cpp
+    [6/29] TankAimingComponent.cpp
+    [7/29] Tank.cpp
+    [8/29] Projectile.cpp
+    [9/29] SprungWheel.cpp
+    [10/29] TankAIController.cpp
+D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Source\BattleTank\Private\TankAIController.cpp(27): warning C4458: declaration of 'Pawn' hides class member
+    D:\Programs\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h(66): note: see declaration of 'AController::Pawn'
+    [11/29] BattleTank.init.gen.cpp
+    [12/29] TankTurret.cpp
+    [13/29] TankTrack.cpp
+    [14/29] SprungWheel.gen.cpp
+    [15/29] SpawnPoint.gen.cpp
+    [16/29] TankPlayerController.cpp
+    [17/29] Tank.gen.cpp
+    [18/29] TankBarrel.gen.cpp
+    [19/29] TankTrack.gen.cpp
+    [20/29] TankAimingComponent.gen.cpp
+    [21/29] TankMovementComponent.gen.cpp
+    [22/29] TankPlayerController.gen.cpp
+    [23/29] TankAIController.gen.cpp
+    [24/29] TankTurret.gen.cpp
+    [25/29] BattleTank.cpp
+    [26/29] Projectile.gen.cpp
+    [27/29] UE4Editor-BattleTank.lib
+       Creating library D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank.lib and object D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank.exp
+    [28/29] UE4Editor-BattleTank.dll
+       Creating library D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank.suppressed.lib and object D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank.suppressed.exp
+    [29/29] BattleTankEditor.target
+  Total time in Parallel executor: 34.02 seconds
+  Total execution time: 49.59 seconds

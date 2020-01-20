@@ -1,0 +1,5 @@
+D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Definitions.BattleTank.h
+D:\Programs\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Programs\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Source\BattleTank/Public/SpawnPoint.h
+D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Intermediate\Build\Win64\UE4Editor\Inc\BattleTank\SpawnPoint.generated.h

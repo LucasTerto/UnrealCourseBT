@@ -1,0 +1,3 @@
+D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Definitions.BattleTank.h
+D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Source\BattleTank\Public\TankTurret.h
+D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Intermediate\Build\Win64\UE4Editor\Inc\BattleTank\TankTurret.generated.h

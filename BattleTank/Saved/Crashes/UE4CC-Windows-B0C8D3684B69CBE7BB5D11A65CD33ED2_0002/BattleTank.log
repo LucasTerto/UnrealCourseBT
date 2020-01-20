@@ -1,0 +1,1285 @@
+﻿Log file open, 12/03/19 19:43:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BattleTank
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.279180
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 4600
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=LucasDTerto -epicuserid=74017a715e9a4ec5ba2943a21a6b1242 -epiclocale=en-US
+LogInit: Base Directory: D:/Programs/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.03-19.43.07:104][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.03-19.43.07:104][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.03-19.43.07:104][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Config/Windows/Engine.ini]
+[2019.12.03-19.43.07:104][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Config/Windows/Engine.ini]
+[2019.12.03-19.43.07:105][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Config/Windows/Engine.ini]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Config/Windows/Engine.ini]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.03-19.43.07:105][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Config/Windows/Engine.ini]
+[2019.12.03-19.43.07:105][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Config/Windows/Engine.ini]
+[2019.12.03-19.43.07:114][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.03-19.43.07:114][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-19.43.07:114][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.03-19.43.07:115][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.03-19.43.07:115][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.03-19.43.07:115][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.03-19.43.07:145][  0]LogHAL: Display: Platform has ~ 16 GB [17057189888 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.12.03-19.43.07:145][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.03-19.43.07:145][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.03-19.43.07:145][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.03-19.43.07:146][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Config/Windows/Engine.ini]
+[2019.12.03-19.43.07:146][  0]LogInit: Computer: LUCAS-PC
+[2019.12.03-19.43.07:146][  0]LogInit: User: Lucas
+[2019.12.03-19.43.07:146][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.03-19.43.07:146][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.03-19.43.07:147][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.12.03-19.43.07:147][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.03-19.43.07:147][  0]LogMemory: Process Physical Memory: 98.69 MB used, 98.70 MB peak
+[2019.12.03-19.43.07:147][  0]LogMemory: Process Virtual Memory: 103.17 MB used, 103.17 MB peak
+[2019.12.03-19.43.07:147][  0]LogMemory: Physical Memory: 5578.78 MB used,  10688.22 MB free, 16267.00 MB total
+[2019.12.03-19.43.07:147][  0]LogMemory: Virtual Memory: 4665.70 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.12.03-19.43.07:167][  0]LogInit: Using OS detected language (en-US).
+[2019.12.03-19.43.07:167][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.03-19.43.07:168][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.03-19.43.07:405][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.03-19.43.07:446][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.03-19.43.07:446][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.03-19.43.07:767][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.03-19.43.07:767][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.03-19.43.07:847][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 860M' (Feature Level 11_0)
+[2019.12.03-19.43.07:847][  0]LogD3D11RHI:       4065/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.03-19.43.07:855][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.12.03-19.43.07:855][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.03-19.43.07:858][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.03-19.43.07:858][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.03-19.43.07:859][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.03-19.43.07:893][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.03-19.43.07:893][  0]LogD3D11RHI:     GPU DeviceId: 0x1392 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.03-19.43.07:893][  0]LogWindows: EnumDisplayDevices:
+[2019.12.03-19.43.07:894][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.12.03-19.43.07:895][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.12.03-19.43.07:895][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.12.03-19.43.07:896][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.12.03-19.43.07:896][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 860M
+[2019.12.03-19.43.07:896][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.12.03-19.43.07:896][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.12.03-19.43.07:896][  0]LogRHI: Texture pool is 2846 MB (70% of 4065 MB)
+[2019.12.03-19.43.07:945][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.03-19.43.07:949][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.03-19.43.07:949][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.03-19.43.07:949][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.03-19.43.07:958][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.03-19.43.08:410][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.03-19.43.08:425][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.03-19.43.08:440][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.03-19.43.08:463][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.03-19.43.08:478][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.03-19.43.08:494][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.03-19.43.08:511][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.03-19.43.08:533][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.03-19.43.08:540][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.03-19.43.08:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.03-19.43.08:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.03-19.43.08:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.03-19.43.08:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.03-19.43.08:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.03-19.43.08:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.03-19.43.08:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.03-19.43.08:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.03-19.43.08:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.03-19.43.08:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.03-19.43.08:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.03-19.43.08:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.03-19.43.08:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.03-19.43.08:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.03-19.43.08:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.03-19.43.08:639][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.03-19.43.08:640][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.03-19.43.08:640][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.03-19.43.08:642][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.03-19.43.08:698][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.03-19.43.08:698][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.03-19.43.08:724][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.03-19.43.08:724][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.03-19.43.08:738][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.03-19.43.08:753][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.03-19.43.08:767][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.03-19.43.08:781][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.03-19.43.08:833][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.03-19.43.08:833][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.03-19.43.08:833][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.03-19.43.08:843][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.03-19.43.08:889][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Intermediate/Shaders/WorkingDirectory/13860/).
+[2019.12.03-19.43.08:890][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Asus/AppData/Local/Temp/UnrealShaderWorkingDir/99CA7C42449E1BE23E52808500208A7A/'.
+[2019.12.03-19.43.08:892][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.03-19.43.08:892][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.03-19.43.08:892][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.03-19.43.09:616][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.03-19.43.09:687][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Asus/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.03-19.43.09:687][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Asus/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.12.03-19.43.09:687][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.03-19.43.09:687][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.03-19.43.09:687][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.03-19.43.09:687][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.03-19.43.09:701][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.03-19.43.09:701][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.03-19.43.09:701][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.03-19.43.09:714][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Asus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.03-19.43.09:714][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.03-19.43.09:714][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.03-19.43.09:742][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.03-19.43.09:745][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.03-19.43.09:745][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.03-19.43.09:864][  0]LogAssetRegistry: FAssetRegistry took 0.0388 seconds to start up
+[2019.12.03-19.43.10:268][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.03-19.43.10:411][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.03-19.43.10:411][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.03-19.43.10:411][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.03-19.43.10:411][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.03-19.43.10:411][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.03-19.43.10:429][  0]LogNetVersion: BattleTank 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 704854574)
+[2019.12.03-19.43.10:974][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.099027 seconds
+[2019.12.03-19.43.10:981][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.12.03-19.43.10:981][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.12.03-19.43.10:981][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.03-19.43.11:968][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.03-19.43.11:981][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.03-19.43.12:191][  0]SourceControl: Source control is disabled
+[2019.12.03-19.43.12:191][  0]SourceControl: Source control is disabled
+[2019.12.03-19.43.12:193][  0]SourceControl: Source control is disabled
+[2019.12.03-19.43.12:194][  0]SourceControl: Source control is disabled
+[2019.12.03-19.43.12:285][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.03-19.43.12:414][  0]LogOcInput: OculusInput pre-init called
+[2019.12.03-19.43.13:244][  0]LogEngine: Initializing Engine...
+[2019.12.03-19.43.13:246][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.03-19.43.13:247][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.03-19.43.13:474][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.03-19.43.13:485][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.03-19.43.13:518][  0]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-19.43.13:557][  0]LogInit: FAudioDevice initialized.
+[2019.12.03-19.43.13:557][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.03-19.43.13:717][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/Asus/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.03-19.43.13:725][  0]LogInit: Texture streaming: Enabled
+[2019.12.03-19.43.13:743][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.03-19.43.13:763][  0]LogInit: Transaction tracking system initialized
+[2019.12.03-19.43.13:801][  0]BlueprintLog: New page: Editor Load
+[2019.12.03-19.43.13:879][  0]LocalizationService: Localization service is disabled
+[2019.12.03-19.43.14:283][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Content/' took 0.10s
+[2019.12.03-19.43.14:283][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.03-19.43.14:283][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.03-19.43.14:478][  0]SourceControl: Source control is disabled
+[2019.12.03-19.43.14:479][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Content/BattleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.03-19.43.14:479][  0]LightingResults: New page: Lighting Build
+[2019.12.03-19.43.14:481][  0]MapCheck: New page: Map Check
+[2019.12.03-19.43.14:481][  0]LightingResults: New page: Lighting Build
+[2019.12.03-19.43.14:510][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.12.03-19.43.17:432][  0]LogAIModule: Creating AISystem for world BattleMap
+[2019.12.03-19.43.18:256][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.03-19.43.18:296][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.12.03-19.43.18:296][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.03-19.43.18:296][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2019.12.03-19.43.18:296][  0]LogFileHelpers: Loading map 'BattleMap' took 3.817
+[2019.12.03-19.43.18:555][  0]LogCollectionManager: Loaded 0 collections in 0.001693 seconds
+[2019.12.03-19.43.18:585][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Collections/' took 0.01s
+[2019.12.03-19.43.18:585][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Content/Developers/Lucas/Collections/' took 0.01s
+[2019.12.03-19.43.18:585][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/Content/Collections/' took 0.00s
+[2019.12.03-19.43.18:585][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.12.03-19.43.18:595][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2741 classes and 662 folders.
+[2019.12.03-19.43.18:601][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.03-19.43.18:639][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.18:656][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.18:665][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.18:721][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.18:744][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.18:758][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.18:769][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.18:781][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.18:793][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.18:804][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.18:817][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.18:824][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.18:837][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.18:840][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.18:851][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.18:863][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.18:877][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.18:886][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.18:900][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.18:911][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.18:920][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.18:983][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.19:004][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.19:037][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.19:043][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.19:056][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.03-19.43.19:832][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.12.03-19.43.19:939][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-19.43.19:948][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-19.43.19:956][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-19.43.19:965][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-19.43.20:080][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.12.03-19.43.20:144][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.12.03-19.43.20:144][  0]LogLoad: (Engine Initialization) Total time: 16.60 seconds
+[2019.12.03-19.43.20:144][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.03-19.43.20:183][  0]LogAssetRegistry: Asset discovery search completed in 10.3405 seconds
+[2019.12.03-19.43.20:185][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.12.03-19.43.20:185][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2019.12.03-19.43.20:186][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.03-19.43.20:197][  0]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.03-19.43.20:210][  0]LogSlate: Took 0.011598 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.03-19.43.20:210][  0]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.03-19.43.20:241][  0]LogSlate: Took 0.025963 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.12.03-19.43.20:559][  1]LogRenderer: Reallocating scene render targets to support 788x512 Format 10 NumSamples 1 (Frame:1).
+[2019.12.03-19.43.27:630][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.43.52:570][923]LogSlate: Took 0.048016 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.03-19.43.52:666][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Projectile/P_Explosion" FILE="../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Content/Projectile/P_Explosion.uasset" SILENT=true
+[2019.12.03-19.43.52:727][923]LogSavePackage: Moving '../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/P_ExplosionC25787E2490800DEE7BEB1A3E60CEF2D.tmp' to '../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Content/Projectile/P_Explosion.uasset'
+[2019.12.03-19.43.52:836][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.12.03-19.43.52:864][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.12.03-19.43.52:889][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.12.03-19.43.52:957][923]LogSavePackage: Moving '../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Blueprint_Effect_Explosion4FA6E6B64A548341957A60A19CE9CEC2.tmp' to '../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset'
+[2019.12.03-19.44.13:957][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Projectile/LaunchBlast" FILE="../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Content/Projectile/LaunchBlast.uasset" SILENT=true
+[2019.12.03-19.44.14:020][130]LogSavePackage: Moving '../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/LaunchBlastC26759FF4E53B91868C4E4983713A59C.tmp' to '../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Content/Projectile/LaunchBlast.uasset'
+[2019.12.03-19.44.14:129][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.12.03-19.44.14:161][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.12.03-19.44.14:187][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.12.03-19.44.14:218][130]LogSavePackage: Moving '../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Blueprint_Effect_Explosion35568C9A4DD1627B11D2D59D4605037E.tmp' to '../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset'
+[2019.12.03-19.44.30:700][505]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Projectile/LaunchBlast.LaunchBlast
+[2019.12.03-19.44.30:837][505]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0006 seconds. Added 2 classes and 2 folders.
+[2019.12.03-19.44.58:064][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.45.24:983][564]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.03-19.47.11:587][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.47.20:744][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.47.55:493][188]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.03-19.47.55:527][189]LogRenderer: Reallocating scene render targets to support 788x636 Format 10 NumSamples 1 (Frame:4593).
+[2019.12.03-19.47.56:508][256]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Projectile/Projectile_BP.Projectile_BP
+[2019.12.03-19.47.57:098][256]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2019.12.03-19.48.00:256][434]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Projectile/Projectile_BP.Projectile_BP
+[2019.12.03-19.48.00:667][434]LogSlate: Took 0.014895 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.03-19.48.03:189][714]LogSlate: Took 0.039501 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.03-19.48.11:169][583]BlueprintLog: New page: Compile Projectile_BP
+[2019.12.03-19.48.11:415][583]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2019.12.03-19.48.12:080][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Projectile/Projectile_BP" FILE="../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Content/Projectile/Projectile_BP.uasset" SILENT=true
+[2019.12.03-19.48.12:105][657]LogSavePackage: Moving '../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Projectile_BPF65BDE08455C7DC2267D39AFD7DD1EA8.tmp' to '../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Content/Projectile/Projectile_BP.uasset'
+[2019.12.03-19.49.04:770][864]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.49.05:849][993]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.49.07:149][993]LogSlate: Window 'Message' being destroyed
+[2019.12.03-19.49.12:655][652]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.49.36:286][408]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.49.42:970][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.50.03:474][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.51.03:407][737]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.51.06:057][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.51.36:213][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.52.21:782][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.52.43:238][246]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.52.45:215][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.52.49:366][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Projectile/LaunchBlast" FILE="../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Content/Projectile/LaunchBlast.uasset" SILENT=true
+[2019.12.03-19.52.49:442][927]LogSavePackage: Moving '../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/LaunchBlastCE879F8D44804959C94DFF9893E92B26.tmp' to '../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Content/Projectile/LaunchBlast.uasset'
+[2019.12.03-19.53.19:156][732]LogCascade: Non-seeded module ParticleModuleColorOverLife
+[2019.12.03-19.53.19:159][732]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.53.32:023][250]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.54.02:207][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.54.06:188][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.54.17:593][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.54.32:655][506]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.54.34:292][702]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.54.35:472][702]LogSlate: Window 'Message' being destroyed
+[2019.12.03-19.55.28:232][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.12.03-19.55.28:232][907]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/BattleMap' took 0.034
+[2019.12.03-19.55.28:234][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Projectile/LaunchBlast] ([1] browsable assets)...
+[2019.12.03-19.55.28:244][907]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Projectile/LaunchBlast.LaunchBlast]
+[2019.12.03-19.55.28:244][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Projectile/LaunchBlast]
+[2019.12.03-19.55.28:318][907]LogSavePackage: Moving '../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/LaunchBlast_Auto1255C39CE4E586C246C9993869B4D243D.tmp' to '../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/Autosaves/Game/Projectile/LaunchBlast_Auto1.uasset'
+[2019.12.03-19.55.28:319][907]LogFileHelpers: Auto-saving content packages took 0.086
+[2019.12.03-19.55.28:495][908]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.55.31:196][205]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.55.31:582][251]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.55.35:858][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.55.48:546][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.55.48:656][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Projectile/LaunchBlast" FILE="../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Content/Projectile/LaunchBlast.uasset" SILENT=true
+[2019.12.03-19.55.48:720][296]LogSavePackage: Moving '../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/LaunchBlastADEC9B2A4B05473C56DE46A546D34FA1.tmp' to '../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Content/Projectile/LaunchBlast.uasset'
+[2019.12.03-19.55.55:193][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.55.57:432][319]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.55.58:720][472]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.03-19.56.04:867][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.56.22:084][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-19.56.22:192][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Projectile/LaunchBlast" FILE="../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Content/Projectile/LaunchBlast.uasset" SILENT=true
+[2019.12.03-19.56.22:269][268]LogSavePackage: Moving '../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Saved/LaunchBlastB37E3D6B4933F960D5B794993D066242.tmp' to '../../../../../../Unreal/BattleTank/UnrealCourseBT/BattleTank/Content/Projectile/LaunchBlast.uasset'
+[2019.12.03-19.56.26:500][773]LogCascade: Quitting Cascade. FXSystem=0x000002AB1D3931C0
+[2019.12.03-19.56.28:234][935]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.12.03-19.56.29:201][ 37]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.12.03-19.56.29:204][ 37]Candidate modules for hot reload:
+[2019.12.03-19.56.29:204][ 37]  BattleTank
+[2019.12.03-19.56.29:204][ 37]Launching UnrealBuildTool... [D:/Programs/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleTank,824 Win64 Development -TargetType=Editor -Project="D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/BattleTank.uproject" "D:/Unreal/BattleTank/UnrealCourseBT/BattleTank/BattleTank.uproject"  -IgnoreJunk]
+[2019.12.03-19.56.29:211][ 37]Warning: Starting HotReload took  0.1s.
+[2019.12.03-19.57.03:212][595]CompilerResultsLog: New page: Compilation - Dec 3, 2019, 7:57:03 PM
+[2019.12.03-19.57.03:213][595]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal\BattleTank\UnrealCourseBT).
+[2019.12.03-19.57.03:214][595]CompilerResultsLog: Creating makefile for BattleTankEditor (ini files are newer than makefile)
+[2019.12.03-19.57.03:214][595]CompilerResultsLog: Parsing headers for BattleTankEditor
+[2019.12.03-19.57.03:214][595]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\BattleTank.uproject" "D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Intermediate\Build\Win64\BattleTankEditor\Development\BattleTankEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.03-19.57.03:215][595]CompilerResultsLog: Reflection code generated for BattleTankEditor in 21.8892741 seconds
+[2019.12.03-19.57.03:216][595]CompilerResultsLog: Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.03-19.57.03:217][595]CompilerResultsLog: Building 3 actions with 8 processes...
+[2019.12.03-19.57.03:217][595]CompilerResultsLog:   [1/3] UE4Editor-BattleTank-0824.lib
+[2019.12.03-19.57.03:218][595]CompilerResultsLog:      Creating library D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-0824.lib and object D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-0824.exp
+[2019.12.03-19.57.03:219][595]CompilerResultsLog:   [2/3] UE4Editor-BattleTank-0824.dll
+[2019.12.03-19.57.03:220][595]CompilerResultsLog:      Creating library D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-0824.suppressed.lib and object D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-0824.suppressed.exp
+[2019.12.03-19.57.03:221][595]CompilerResultsLog:   [3/3] BattleTankEditor.target
+[2019.12.03-19.57.03:222][595]CompilerResultsLog: Total time in Parallel executor: 3.83 seconds
+[2019.12.03-19.57.03:222][595]CompilerResultsLog: Total execution time: 33.80 seconds
+[2019.12.03-19.57.03:222][595]LogMainFrame: MainFrame: Module compiling took 34.021 seconds
+[2019.12.03-19.57.03:267][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.12.03-19.57.03:268][595]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2019.12.03-19.57.03:288][595]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2744 classes and 666 folders.
+[2019.12.03-19.57.03:288][595]Display: HotReload took 34.1s.
+[2019.12.03-19.57.23:416][927]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-19.57.23:433][927]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BattleMap.BattleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BattleMap.BattleMap:PersistentLevel.BattleMap' with GeneratedClass '/Game/BattleMap.BattleMap_C' with ClassGeneratedBy '/Game/BattleMap.BattleMap:PersistentLevel.BattleMap'
+[2019.12.03-19.57.23:433][927]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.03-19.57.23:435][927]LogPlayLevel: [PlayLevel] Compiling Blueprint_Effect_Explosion before play...
+[2019.12.03-19.57.23:533][927]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2019.12.03-19.57.23:533][927]LogPlayLevel: PlayLevel: Blueprint regeneration took 99 ms (1 blueprints)
+[2019.12.03-19.57.23:533][927]PIE: New page: PIE session: BattleMap (Dec 3, 2019, 7:57:23 PM)
+[2019.12.03-19.57.23:548][927]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BattleMap
+[2019.12.03-19.57.24:070][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.521698s)
+[2019.12.03-19.57.24:071][927]LogAIModule: Creating AISystem for world BattleMap
+[2019.12.03-19.57.24:071][927]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2019.12.03-19.57.24:071][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BattleMap.BattleMap to /Game/UEDPIE_0_BattleMap.BattleMap (0.524036s)
+[2019.12.03-19.57.24:135][927]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2019.12.03-19.57.24:180][927]LogInit: XAudio2 using 'Altifalantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-19.57.24:211][927]LogInit: FAudioDevice initialized.
+[2019.12.03-19.57.24:256][927]LogLoad: Game class is 'BattleTank_BP_C'
+[2019.12.03-19.57.24:262][927]LogWorld: Bringing World /Game/UEDPIE_0_BattleMap.BattleMap up for play (max tick rate 0) at 2019.12.03-19.57.24
+[2019.12.03-19.57.24:263][927]LogWorld: Bringing up level for play took: 0.006560
+[2019.12.03-19.57.24:326][927]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.12.03-19.57.24:328][927]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.12.03-19.57.24:328][927]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.12.03-19.57.24:328][927]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.03-19.57.24:329][927]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.12.03-19.57.24:329][927]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.12.03-19.57.24:330][927]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.03-19.57.26:208][927]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.878 s
+[2019.12.03-19.57.26:209][927]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.03-19.57.26:209][927]LogOutputDevice: Error: 
+[2019.12.03-19.57.26:209][927]LogOutputDevice: Error: Ensure condition failed: Component->HasBegunPlay() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Actor.cpp] [Line: 3372]
+[2019.12.03-19.57.26:209][927]LogOutputDevice: Error: Failed to route BeginPlay (TankAimingComponent /Game/UEDPIE_0_BattleMap.BattleMap:PersistentLevel.Tank_BP2_5.TankAiming)
+[2019.12.03-19.57.26:209][927]LogOutputDevice: Error: Stack: 
+[2019.12.03-19.57.26:209][927]LogOutputDevice: Error: [Callstack] 0x00007ffb92458887 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.26:209][927]LogOutputDevice: Error: [Callstack] 0x00007ffb90e87344 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.26:209][927]LogOutputDevice: Error: [Callstack] 0x00007ffb90e91af6 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.26:210][927]LogOutputDevice: Error: [Callstack] 0x00007ffb91facb99 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.26:210][927]LogOutputDevice: Error: [Callstack] 0x00007ffb91514595 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.26:210][927]LogOutputDevice: Error: [Callstack] 0x00007ffb9152ba04 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.26:210][927]LogOutputDevice: Error: [Callstack] 0x00007ffb91530613 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.26:210][927]LogOutputDevice: Error: [Callstack] 0x00007ffb91f6754e UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.26:210][927]LogOutputDevice: Error: [Callstack] 0x00007ffb914d99af UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.26:210][927]LogOutputDevice: Error: [Callstack] 0x00007ffbb02fbe44 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.03-19.57.26:210][927]LogOutputDevice: Error: [Callstack] 0x00007ffbb031b044 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.03-19.57.26:211][927]LogOutputDevice: Error: [Callstack] 0x00007ffbb033319f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.03-19.57.26:211][927]LogOutputDevice: Error: [Callstack] 0x00007ffbafe0fc4a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.03-19.57.26:211][927]LogOutputDevice: Error: [Callstack] 0x00007ffbb062d396 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.03-19.57.26:211][927]LogOutputDevice: Error: [Callstack] 0x00007ff7e6e56bb1 UE4Editor.exe!UnknownFunction []
+[2019.12.03-19.57.26:211][927]LogOutputDevice: Error: [Callstack] 0x00007ff7e6e6554c UE4Editor.exe!UnknownFunction []
+[2019.12.03-19.57.26:211][927]LogOutputDevice: Error: [Callstack] 0x00007ff7e6e655ca UE4Editor.exe!UnknownFunction []
+[2019.12.03-19.57.26:211][927]LogOutputDevice: Error: [Callstack] 0x00007ff7e6e7316c UE4Editor.exe!UnknownFunction []
+[2019.12.03-19.57.26:211][927]LogOutputDevice: Error: [Callstack] 0x00007ff7e6e75b8e UE4Editor.exe!UnknownFunction []
+[2019.12.03-19.57.26:212][927]LogOutputDevice: Error: [Callstack] 0x00007ffbe6be7974 KERNEL32.DLL!UnknownFunction []
+[2019.12.03-19.57.26:212][927]LogOutputDevice: Error: [Callstack] 0x00007ffbe9a1a271 ntdll.dll!UnknownFunction []
+[2019.12.03-19.57.26:212][927]LogOutputDevice: Error: 
+[2019.12.03-19.57.26:268][927]LogStats:                SubmitErrorReport -  0.000 s
+[2019.12.03-19.57.27:413][927]LogStats:                    SendNewReport -  1.145 s
+[2019.12.03-19.57.27:413][927]LogStats:             FDebug::EnsureFailed -  3.083 s
+[2019.12.03-19.57.27:413][927]LogOutputDevice: Warning: 
+
+Script Stack (2 frames):
+Tank_BP_C.ExecuteUbergraph_Tank_BP
+Tank_BP_C.ReceiveBeginPlay
+
+[2019.12.03-19.57.27:905][927]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.491 s
+[2019.12.03-19.57.27:905][927]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.03-19.57.27:905][927]LogOutputDevice: Error: 
+[2019.12.03-19.57.27:905][927]LogOutputDevice: Error: Ensure condition failed: LeftTrack && RightTrack [File:D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Source\BattleTank\Private\TankMovementComponent.cpp] [Line: 8]
+[2019.12.03-19.57.27:905][927]LogOutputDevice: Error: 
+[2019.12.03-19.57.27:905][927]LogOutputDevice: Error: Stack: 
+[2019.12.03-19.57.27:905][927]LogOutputDevice: Error: [Callstack] 0x00007ffb7b19e4e8 UE4Editor-BattleTank-8785.dll!<lambda_abcc9d5ab368e0a02e2bf7e91242716c>::operator()() [D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Source\BattleTank\Private\TankMovementComponent.cpp:8]
+[2019.12.03-19.57.27:906][927]LogOutputDevice: Error: [Callstack] 0x00007ffb7b19532d UE4Editor-BattleTank-8785.dll!UTankMovementComponent::execInitialise() [D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Source\BattleTank\Public\TankMovementComponent.h:16]
+[2019.12.03-19.57.27:906][927]LogOutputDevice: Error: [Callstack] 0x00007ffbb770bac8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.03-19.57.27:906][927]LogOutputDevice: Error: [Callstack] 0x00007ffbb79000e2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.03-19.57.27:906][927]LogOutputDevice: Error: [Callstack] 0x00007ffbb791cbc1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.03-19.57.27:906][927]LogOutputDevice: Error: [Callstack] 0x00007ffbb791e98d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.03-19.57.27:907][927]LogOutputDevice: Error: [Callstack] 0x00007ffbb78f5efb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.03-19.57.27:907][927]LogOutputDevice: Error: [Callstack] 0x00007ffbb791e6a9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.03-19.57.27:907][927]LogOutputDevice: Error: [Callstack] 0x00007ffbb791e98d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.03-19.57.27:907][927]LogOutputDevice: Error: [Callstack] 0x00007ffbb791e378 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.03-19.57.27:907][927]LogOutputDevice: Error: [Callstack] 0x00007ffbb770bac8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.03-19.57.27:907][927]LogOutputDevice: Error: [Callstack] 0x00007ffbb791df07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.03-19.57.27:907][927]LogOutputDevice: Error: [Callstack] 0x00007ffb90eb9ff3 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.27:908][927]LogOutputDevice: Error: [Callstack] 0x00007ffb90e87358 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.27:908][927]LogOutputDevice: Error: [Callstack] 0x00007ffb90e91af6 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.27:908][927]LogOutputDevice: Error: [Callstack] 0x00007ffb91facb99 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.27:908][927]LogOutputDevice: Error: [Callstack] 0x00007ffb91514595 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.27:908][927]LogOutputDevice: Error: [Callstack] 0x00007ffb9152ba04 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.27:908][927]LogOutputDevice: Error: [Callstack] 0x00007ffb91530613 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.27:908][927]LogOutputDevice: Error: [Callstack] 0x00007ffb91f6754e UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.27:908][927]LogOutputDevice: Error: [Callstack] 0x00007ffb914d99af UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.27:909][927]LogOutputDevice: Error: [Callstack] 0x00007ffbb02fbe44 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.03-19.57.27:909][927]LogOutputDevice: Error: [Callstack] 0x00007ffbb031b044 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.03-19.57.27:909][927]LogOutputDevice: Error: [Callstack] 0x00007ffbb033319f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.03-19.57.27:909][927]LogOutputDevice: Error: [Callstack] 0x00007ffbafe0fc4a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.03-19.57.27:909][927]LogOutputDevice: Error: [Callstack] 0x00007ffbb062d396 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.03-19.57.27:910][927]LogOutputDevice: Error: [Callstack] 0x00007ff7e6e56bb1 UE4Editor.exe!UnknownFunction []
+[2019.12.03-19.57.27:910][927]LogOutputDevice: Error: [Callstack] 0x00007ff7e6e6554c UE4Editor.exe!UnknownFunction []
+[2019.12.03-19.57.27:910][927]LogOutputDevice: Error: [Callstack] 0x00007ff7e6e655ca UE4Editor.exe!UnknownFunction []
+[2019.12.03-19.57.27:910][927]LogOutputDevice: Error: [Callstack] 0x00007ff7e6e7316c UE4Editor.exe!UnknownFunction []
+[2019.12.03-19.57.27:911][927]LogOutputDevice: Error: [Callstack] 0x00007ff7e6e75b8e UE4Editor.exe!UnknownFunction []
+[2019.12.03-19.57.27:911][927]LogOutputDevice: Error: [Callstack] 0x00007ffbe6be7974 KERNEL32.DLL!UnknownFunction []
+[2019.12.03-19.57.27:911][927]LogOutputDevice: Error: [Callstack] 0x00007ffbe9a1a271 ntdll.dll!UnknownFunction []
+[2019.12.03-19.57.27:911][927]LogOutputDevice: Error: 
+[2019.12.03-19.57.27:912][927]LogStats:                SubmitErrorReport -  0.000 s
+[2019.12.03-19.57.28:992][927]LogStats:                    SendNewReport -  1.080 s
+[2019.12.03-19.57.28:992][927]LogStats:             FDebug::EnsureFailed -  1.579 s
+[2019.12.03-19.57.28:994][927]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.12.03-19.57.28:994][927]PIE: Play in editor start time for /Game/UEDPIE_0_BattleMap 4.894
+[2019.12.03-19.57.28:994][927]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BattleMap.BattleMap:PersistentLevel' has LevelScriptBlueprint '/Game/BattleMap.BattleMap:PersistentLevel.BattleMap' with GeneratedClass '/Game/BattleMap.BattleMap_C' with ClassGeneratedBy '/Game/BattleMap.BattleMap:PersistentLevel.BattleMap'
+[2019.12.03-19.57.29:008][927]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:518][928]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:529][929]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:552][930]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:589][931]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:686][932]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:695][933]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:706][934]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:716][935]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:729][936]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:741][937]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:753][938]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:762][939]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:775][940]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:788][941]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:798][942]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:810][943]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:822][944]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:830][945]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:841][946]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:852][947]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:861][948]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:874][949]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:883][950]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:893][951]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:903][952]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:912][953]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:923][954]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:931][955]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:943][956]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:954][957]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:961][958]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:973][959]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:981][960]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.29:992][961]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:003][962]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:011][963]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:023][964]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:032][965]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:043][966]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:053][967]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:063][968]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:075][969]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:085][970]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:094][971]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:107][972]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:115][973]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:125][974]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:135][975]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:146][976]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:156][977]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:165][978]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:175][979]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:185][980]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:194][981]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:204][982]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:212][983]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:224][984]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:232][985]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:244][986]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:255][987]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:262][988]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:274][989]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:287][990]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:317][991]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:326][992]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:338][993]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:350][994]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:364][995]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:376][996]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:387][997]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:396][998]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:409][999]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:418][  0]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:429][  1]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:442][  2]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:452][  3]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:460][  4]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:470][  5]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:479][  6]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:493][  7]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:504][  8]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:513][  9]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:525][ 10]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:534][ 11]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:543][ 12]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:552][ 13]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:561][ 14]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:574][ 15]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:585][ 16]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:593][ 17]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:603][ 18]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:610][ 19]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:620][ 20]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:628][ 21]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:644][ 22]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:657][ 23]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:665][ 24]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:676][ 25]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:687][ 26]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:698][ 27]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:709][ 28]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:720][ 29]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:730][ 30]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:742][ 31]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:751][ 32]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:760][ 33]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:770][ 34]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:778][ 35]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:788][ 36]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:796][ 37]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:809][ 38]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:818][ 39]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:828][ 40]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:838][ 41]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:847][ 42]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:857][ 43]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:868][ 44]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:875][ 45]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:884][ 46]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:893][ 47]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:904][ 48]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:914][ 49]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:925][ 50]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:935][ 51]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:943][ 52]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:952][ 53]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:963][ 54]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:975][ 55]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:985][ 56]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.30:994][ 57]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:005][ 58]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:013][ 59]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:022][ 60]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:030][ 61]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:042][ 62]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:052][ 63]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:061][ 64]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:070][ 65]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:079][ 66]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:088][ 67]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:097][ 68]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:110][ 69]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:120][ 70]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:128][ 71]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:139][ 72]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:147][ 73]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:159][ 74]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:169][ 75]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:177][ 76]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:187][ 77]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:196][ 78]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:207][ 79]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:216][ 80]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:225][ 81]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:237][ 82]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:246][ 83]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:256][ 84]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:266][ 85]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:276][ 86]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:287][ 87]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:297][ 88]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:309][ 89]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:322][ 90]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:331][ 91]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:341][ 92]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:351][ 93]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:360][ 94]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:371][ 95]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:377][ 96]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:387][ 97]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:396][ 98]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:407][ 99]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:415][100]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:423][101]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:435][102]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:445][103]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:457][104]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:466][105]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:476][106]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:485][107]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:495][108]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:508][109]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:519][110]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:526][111]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:537][112]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:545][113]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:560][114]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:572][115]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:581][116]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:590][117]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:598][118]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:611][119]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:622][120]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:630][121]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:642][122]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:652][123]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:661][124]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:672][125]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:680][126]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:689][127]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:698][128]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:709][129]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:719][130]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:728][131]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:739][132]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:748][133]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:757][134]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:766][135]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:777][136]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:788][137]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:796][138]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:808][139]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:817][140]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:826][141]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:838][142]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:847][143]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:857][144]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:866][145]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:876][146]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:888][147]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:896][148]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:906][149]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:914][150]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:925][151]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:935][152]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:942][153]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:951][154]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:959][155]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:968][156]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:975][157]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:985][158]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.31:996][159]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:006][160]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:015][161]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:023][162]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:032][163]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:041][164]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:050][165]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:058][166]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:068][167]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:076][168]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:086][169]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:094][170]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:103][171]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:111][172]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:122][173]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:133][174]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:143][175]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:153][176]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:161][177]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:170][178]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:178][179]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:188][180]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:196][181]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:206][182]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:215][183]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:228][184]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:239][185]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:247][186]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:257][187]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:265][188]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:275][189]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:285][190]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:293][191]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:302][192]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:310][193]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:319][194]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:328][195]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:339][196]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:348][197]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:359][198]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:368][199]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:375][200]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:385][201]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:394][202]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:407][203]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:418][204]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:426][205]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:437][206]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:445][207]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:453][208]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:461][209]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:469][210]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:478][211]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:486][212]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:495][213]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:505][214]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:513][215]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:523][216]LogTemp: Warning: 20000.000000: Projectile Fires
+[2019.12.03-19.57.32:523][216]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:531][217]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:608][218]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:618][219]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:628][220]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:640][221]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:652][222]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:662][223]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:676][224]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:689][225]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:697][226]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:708][227]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:723][228]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:730][229]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:741][230]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:753][231]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:760][232]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:770][233]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:778][234]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:786][235]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:795][236]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:804][237]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:812][238]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:821][239]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:831][240]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:840][241]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:852][242]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:865][243]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:876][244]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:888][245]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:895][246]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:905][247]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:914][248]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:923][249]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:932][250]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:940][251]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:949][252]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:961][253]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:972][254]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:980][255]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.32:992][256]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:000][257]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:009][258]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:018][259]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:027][260]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:039][261]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:050][262]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:061][263]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:075][264]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:086][265]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:095][266]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:104][267]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:113][268]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:123][269]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:135][270]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:146][271]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:157][272]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:169][273]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:180][274]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:191][275]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:204][276]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:212][277]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:223][278]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:235][279]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:245][280]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:257][281]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:266][282]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:280][283]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:290][284]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:302][285]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:312][286]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:324][287]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:335][288]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:346][289]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:356][290]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:365][291]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:381][292]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:391][293]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:403][294]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:413][295]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:442][296]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:452][297]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:460][298]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:469][299]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:479][300]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:490][301]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:500][302]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:510][303]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:520][304]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:532][305]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:541][306]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:551][307]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:563][308]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:574][309]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:587][310]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:604][311]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:612][312]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:624][313]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:636][314]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:646][315]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:657][316]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:669][317]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:684][318]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:698][319]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:709][320]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:720][321]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:733][322]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:744][323]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:754][324]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:769][325]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:779][326]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:792][327]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:803][328]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:819][329]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:829][330]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:839][331]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:852][332]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:862][333]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:874][334]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:886][335]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:903][336]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:917][337]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:928][338]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:938][339]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:952][340]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:963][341]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:974][342]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.33:986][343]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:003][344]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:017][345]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:027][346]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:039][347]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:052][348]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:060][349]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:073][350]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:086][351]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:098][352]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:113][353]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:126][354]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:136][355]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:148][356]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:159][357]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:171][358]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:183][359]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:194][360]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:209][361]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:221][362]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:238][363]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:248][364]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:260][365]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:271][366]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:285][367]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:296][368]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:310][369]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:324][370]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:335][371]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:344][372]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:357][373]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:369][374]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:382][375]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:393][376]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:404][377]LogTemp: Warning: bGotHitLocation: 0
+[2019.12.03-19.57.34:405][377]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.03-19.57.34:521][377]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.116 s
+[2019.12.03-19.57.34:521][377]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.03-19.57.34:521][377]LogOutputDevice: Error: 
+[2019.12.03-19.57.34:521][377]LogOutputDevice: Error: Ensure condition failed: OutTM.isValid() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\PhysicsEngine\PhysicsGeometryPhysX.cpp] [Line: 211]
+[2019.12.03-19.57.34:521][377]LogOutputDevice: Error: 
+[2019.12.03-19.57.34:521][377]LogOutputDevice: Error: Stack: 
+[2019.12.03-19.57.34:522][377]LogOutputDevice: Error: [Callstack] 0x00007ffb924ee589 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:522][377]LogOutputDevice: Error: [Callstack] 0x00007ffb91a264cb UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:522][377]LogOutputDevice: Error: [Callstack] 0x00007ffb91a24f7d UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:522][377]LogOutputDevice: Error: [Callstack] 0x00007ffb91a34404 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:522][377]LogOutputDevice: Error: [Callstack] 0x00007ffb91a0a5ab UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:522][377]LogOutputDevice: Error: [Callstack] 0x00007ffb919d230d UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:522][377]LogOutputDevice: Error: [Callstack] 0x00007ffb91a47fdf UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:523][377]LogOutputDevice: Error: [Callstack] 0x00007ffb91a02e2c UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:523][377]LogOutputDevice: Error: [Callstack] 0x00007ffb919f744d UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:523][377]LogOutputDevice: Error: [Callstack] 0x00007ffb9129ea47 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:523][377]LogOutputDevice: Error: [Callstack] 0x00007ffb912943ce UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:523][377]LogOutputDevice: Error: [Callstack] 0x00007ffb912ef71d UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:523][377]LogOutputDevice: Error: [Callstack] 0x00007ffb91306fb9 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:523][377]LogOutputDevice: Error: [Callstack] 0x00007ffb912e6ce4 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:523][377]LogOutputDevice: Error: [Callstack] 0x00007ffb91291fd3 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:524][377]LogOutputDevice: Error: [Callstack] 0x00007ffb912fa351 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:524][377]LogOutputDevice: Error: [Callstack] 0x00007ffb912fa6e2 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:524][377]LogOutputDevice: Error: [Callstack] 0x00007ffb7b194991 UE4Editor-BattleTank-8785.dll!UTankBarrel::Elevate() [D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Source\BattleTank\Private\TankBarrel.cpp:17]
+[2019.12.03-19.57.34:524][377]LogOutputDevice: Error: [Callstack] 0x00007ffb7b1946be UE4Editor-BattleTank-8785.dll!UTankAimingComponent::MoveBarrelTowards() [D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Source\BattleTank\Private\TankAimingComponent.cpp:93]
+[2019.12.03-19.57.34:524][377]LogOutputDevice: Error: [Callstack] 0x00007ffb7b194253 UE4Editor-BattleTank-8785.dll!UTankAimingComponent::AimAt() [D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Source\BattleTank\Private\TankAimingComponent.cpp:77]
+[2019.12.03-19.57.34:525][377]LogOutputDevice: Error: [Callstack] 0x00007ffb7b1937a6 UE4Editor-BattleTank-8785.dll!ATankAIController::Tick() [D:\Unreal\BattleTank\UnrealCourseBT\BattleTank\Source\BattleTank\Private\TankAIController.cpp:26]
+[2019.12.03-19.57.34:525][377]LogOutputDevice: Error: [Callstack] 0x00007ffb916db170 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:525][377]LogOutputDevice: Error: [Callstack] 0x00007ffb90e9aeed UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:525][377]LogOutputDevice: Error: [Callstack] 0x00007ffb91e572bc UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:525][377]LogOutputDevice: Error: [Callstack] 0x00007ffbb90a22d8 UE4Editor-Core.dll!UnknownFunction []
+[2019.12.03-19.57.34:525][377]LogOutputDevice: Error: [Callstack] 0x00007ffbb90a2563 UE4Editor-Core.dll!UnknownFunction []
+[2019.12.03-19.57.34:526][377]LogOutputDevice: Error: [Callstack] 0x00007ffbb90b2309 UE4Editor-Core.dll!UnknownFunction []
+[2019.12.03-19.57.34:526][377]LogOutputDevice: Error: [Callstack] 0x00007ffb91e9f9e3 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:526][377]LogOutputDevice: Error: [Callstack] 0x00007ffb91eabd12 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:526][377]LogOutputDevice: Error: [Callstack] 0x00007ffb916cdc4f UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:526][377]LogOutputDevice: Error: [Callstack] 0x00007ffb916d7e28 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.03-19.57.34:526][377]LogOutputDevice: Error: [Callstack] 0x00007ffbafe102f7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.03-19.57.34:526][377]LogOutputDevice: Error: [Callstack] 0x00007ffbb062d396 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.03-19.57.34:526][377]LogOutputDevice: Error: [Callstack] 0x00007ff7e6e56bb1 UE4Editor.exe!UnknownFunction []
+[2019.12.03-19.57.34:527][377]LogOutputDevice: Error: [Callstack] 0x00007ff7e6e6554c UE4Editor.exe!UnknownFunction []
+[2019.12.03-19.57.34:527][377]LogOutputDevice: Error: [Callstack] 0x00007ff7e6e655ca UE4Editor.exe!UnknownFunction []
+[2019.12.03-19.57.34:527][377]LogOutputDevice: Error: [Callstack] 0x00007ff7e6e7316c UE4Editor.exe!UnknownFunction []
+[2019.12.03-19.57.34:527][377]LogOutputDevice: Error: [Callstack] 0x00007ff7e6e75b8e UE4Editor.exe!UnknownFunction []
+[2019.12.03-19.57.34:527][377]LogOutputDevice: Error: [Callstack] 0x00007ffbe6be7974 KERNEL32.DLL!UnknownFunction []
+[2019.12.03-19.57.34:527][377]LogOutputDevice: Error: [Callstack] 0x00007ffbe9a1a271 ntdll.dll!UnknownFunction []
+[2019.12.03-19.57.34:527][377]LogOutputDevice: Error: 
+[2019.12.03-19.57.34:534][377]LogStats:                SubmitErrorReport -  0.000 s
